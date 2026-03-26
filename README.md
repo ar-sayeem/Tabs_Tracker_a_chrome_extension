@@ -16,7 +16,11 @@ A lightweight Chrome Extension to save, manage, and revisit important URLs direc
 
 ## 📸 Preview
 
+<div align="center">
+
 ![Tabs Tracker Screenshot](extension_ss.png)
+
+</div>
 
 ---
 
@@ -108,6 +112,7 @@ Tabs_Tracker_a_chrome_extension/
 ├── manifest.json       # Chrome Extension config
 ├── icon.png            # Extension icon
 ├── extension_ss.png    # Preview screenshot
+├── LICENSE             # MIT License
 └── README.md           # Documentation
 ```
 
@@ -124,7 +129,7 @@ Tabs_Tracker_a_chrome_extension/
 
 ## 📄 License
 
-This project is open source and free to use.
+This project is licensed under the [MIT License](https://github.com/ar-sayeem/Tabs_Tracker_a_chrome_extension/blob/main/LICENSE).
 
 ---
 
